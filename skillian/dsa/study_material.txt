@@ -1,0 +1,9 @@
+Time Complexity
+https://juggernaut.practispace.tech/course-item?item-id=6adcd9d298f66508148afac3
+
+Two Pointer
+https://juggernaut.practispace.tech/course-item?item-id=6ade18048507d6081621d81e
+first or left = arr[0], last or right = arr[len(arr)-1]
+while left < right
+
+
