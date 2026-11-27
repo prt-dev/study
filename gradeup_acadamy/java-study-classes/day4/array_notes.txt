@@ -1,0 +1,1 @@
+If you want an array-like structure whose size can change dynamically, Java provides ArrayList.
